@@ -8,6 +8,7 @@ TagManager:
   - Item
   - Door
   - doorText
+  - doorTrigger
   layers:
   - Default
   - TransparentFX
