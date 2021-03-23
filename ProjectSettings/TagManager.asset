@@ -9,6 +9,7 @@ TagManager:
   - Door
   - doorText
   - doorTrigger
+  - PauseMenu
   layers:
   - Default
   - TransparentFX

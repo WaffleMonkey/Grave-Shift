@@ -37,8 +37,9 @@ public class PauseMenu : MonoBehaviour
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
-        Time.timeScale = 1f; // put it bag to normal game
+        Time.timeScale = 1f; // put it back to normal game
         GameIsPaused = false;
+        Cursor.visible = false;
         Debug.Log("ResumeClicked");
     }
      void Pause()
@@ -46,6 +47,7 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f; // freeze game
         GameIsPaused = true;
+        Cursor.visible = true;
         Debug.Log("Paused");
     }
     public void LoadMenu()
