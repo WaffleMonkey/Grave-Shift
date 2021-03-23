@@ -40,6 +40,7 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f; // put it back to normal game
         GameIsPaused = false;
         Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
         Debug.Log("ResumeClicked");
     }
      void Pause()
@@ -48,10 +49,16 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 0f; // freeze game
         GameIsPaused = true;
         Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
         Debug.Log("Paused");
     }
     public void LoadMenu()
     {
+        pauseMenuUI.SetActive(false);
+        Time.timeScale = 1f;
+        GameIsPaused = false;
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
         SceneManager.LoadScene("StartMenu");
     }
     public void QuitGame()
