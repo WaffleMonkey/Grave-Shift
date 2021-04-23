@@ -1,10 +1,6 @@
 Using pre-set license
 Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
-<<<<<<< HEAD
 OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 32528 MB
-=======
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 32693 MB
->>>>>>> 6fbb3db2d8a5159e4a40a89245716728abc6da67
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -15,16 +11,15 @@ C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-<<<<<<< HEAD
 C:/Carleton U/2021 Winter/IMD2900A Design Studio/GraveShift_Liang/Grave-Shift
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65223
+59714
 Successfully changed project path to: C:/Carleton U/2021 Winter/IMD2900A Design Studio/GraveShift_Liang/Grave-Shift
 C:/Carleton U/2021 Winter/IMD2900A Design Studio/GraveShift_Liang/Grave-Shift
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 26.49 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 25.93 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
@@ -36,201 +31,72 @@ Direct3D:
     Vendor:   
     VRAM:     8010 MB
     Driver:   27.21.14.6589
-=======
-C:/Users/edwar/Documents/Grave Shift/Grave-Shift
--logFile
-Logs/AssetImportWorker0.log
--srvPort
-53425
-Successfully changed project path to: C:/Users/edwar/Documents/Grave Shift/Grave-Shift
-C:/Users/edwar/Documents/Grave Shift/Grave-Shift
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 33.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/edwar/Documents/Grave Shift/Grave-Shift/Assets
-GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon RX 6800 XT (ID=0x73bf)
-    Vendor:   
-    VRAM:     16082 MB
-    Driver:   27.20.15003.1004
->>>>>>> 6fbb3db2d8a5159e4a40a89245716728abc6da67
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
-<<<<<<< HEAD
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
-=======
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56572
->>>>>>> 6fbb3db2d8a5159e4a40a89245716728abc6da67
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56940
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-<<<<<<< HEAD
-Registered in 0.001720 seconds.
+Registered in 0.001731 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 23.70 ms, found 0 plugins.
-=======
-Registered in 0.002208 seconds.
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 29.97 ms, found 1 plugins.
->>>>>>> 6fbb3db2d8a5159e4a40a89245716728abc6da67
+Refreshing native plugins compatible for Editor in 25.65 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  0.856 seconds
+- Completed reload, in  0.839 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000657 seconds.
+Registered in 0.000553 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
-=======
-- Completed reload, in  1.043 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.007085 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
->>>>>>> 6fbb3db2d8a5159e4a40a89245716728abc6da67
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  0.688 seconds
+- Completed reload, in  0.654 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 81.0 MB.
+System memory in use before: 81.1 MB.
 System memory in use after: 79.2 MB.
 
 Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 1653.
-Total: 2.824800 ms (FindLiveObjects: 0.295000 ms CreateObjectMapping: 0.122700 ms MarkObjects: 1.685400 ms  DeleteObjects: 0.698500 ms)
+Total: 2.513100 ms (FindLiveObjects: 0.259900 ms CreateObjectMapping: 0.109300 ms MarkObjects: 1.468200 ms  DeleteObjects: 0.674800 ms)
 
 ========================================================================
 Received Import Request.
+  path: Assets/models/LiangModels/GraveShift_MainChurch_RE.fbx
+  artifactKey: Guid(fb2cfc851c081ee4dadbdad1fc7144f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/LiangModels/GraveShift_MainChurch_RE.fbx using Guid(fb2cfc851c081ee4dadbdad1fc7144f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '335e7bfa0712193f638bbe173c7f3f1e') in 5.023603 seconds
+  Import took 5.047434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
   path: Assets/models/LiangModels/GraveShift_MainChurch_R2.fbx
   artifactKey: Guid(822d3c6dba0eee042b0a0a630508e0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/models/LiangModels/GraveShift_MainChurch_R2.fbx using Guid(822d3c6dba0eee042b0a0a630508e0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76f8bc6f60bd801b3b9b64092635c29') in 5.064804 seconds
-  Import took 5.086838 seconds .
+Start importing Assets/models/LiangModels/GraveShift_MainChurch_R2.fbx using Guid(822d3c6dba0eee042b0a0a630508e0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8de63b90624fadb147bfea8743dd6f1') in 4.907044 seconds
+  Import took 4.928681 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 614.766172 seconds.
-  path: Assets/models/LiangModels/GraveShift_MainChurch_R2.fbx
-  artifactKey: Guid(822d3c6dba0eee042b0a0a630508e0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/models/LiangModels/GraveShift_MainChurch_R2.fbx using Guid(822d3c6dba0eee042b0a0a630508e0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729d96185952b9b59ab2564edeb66b83') in 5.602938 seconds
-  Import took 5.626682 seconds .
-=======
-- Completed reload, in  0.781 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1249 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.0 MB.
-System memory in use after: 85.1 MB.
-
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1729.
-Total: 1.857300 ms (FindLiveObjects: 0.204700 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.386900 ms  DeleteObjects: 0.225600 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/Fatima2.unity
-  artifactKey: Guid(a79ac4a26c4ccf647baaff2f6931d95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Fatima2.unity using Guid(a79ac4a26c4ccf647baaff2f6931d95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd3cc4f086cbfa4adfeafd024461ad8') in 0.010371 seconds
-  Import took 0.012746 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.791785 seconds.
-  path: Assets/Scenes/Main.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Main.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adf2d3ed9df96dc91aecdf70f9f5bbd') in 0.002067 seconds
-  Import took 0.004106 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006716 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.712 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1203 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 82.7 MB.
-System memory in use after: 82.8 MB.
-
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1731.
-Total: 1.598400 ms (FindLiveObjects: 0.175400 ms CreateObjectMapping: 0.031300 ms MarkObjects: 1.369500 ms  DeleteObjects: 0.021100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.647194 seconds.
-  path: Assets/Scenes/StartMenu.unity
-  artifactKey: Guid(d09446d62895e4d4792ec531b9f9a0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StartMenu.unity using Guid(d09446d62895e4d4792ec531b9f9a0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c063b6cc27215428f3922307d81b5148') in 0.009414 seconds
-  Import took 0.016410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.616610 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(31633d4c4ab2481468e8ad74d2244eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(31633d4c4ab2481468e8ad74d2244eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dca089db666dadac8257f5897bc650d1') in 0.001703 seconds
-  Import took 0.008220 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.27 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.3 MB.
-System memory in use after: 59.4 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1731.
-Total: 1.810400 ms (FindLiveObjects: 0.161700 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.603600 ms  DeleteObjects: 0.017000 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.10 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 59.3 MB.
-System memory in use after: 59.4 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1731.
-Total: 1.897000 ms (FindLiveObjects: 0.157400 ms CreateObjectMapping: 0.026700 ms MarkObjects: 1.695300 ms  DeleteObjects: 0.016700 ms)
->>>>>>> 6fbb3db2d8a5159e4a40a89245716728abc6da67
+  Time since last request: 48.158194 seconds.
+  path: Assets/models/LiangModels/GraveShiftFinalChurch.fbx
+  artifactKey: Guid(203cf512a2c5884439ff44a11e5979bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/models/LiangModels/GraveShiftFinalChurch.fbx using Guid(203cf512a2c5884439ff44a11e5979bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd45224b3f386b39ae4538a78654049b8') in 0.465915 seconds
+  Import took 0.472813 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
